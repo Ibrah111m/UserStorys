@@ -1,4 +1,4 @@
-# UserStorys
+# Learning more about git features like (git pull, git merge, git fetch etc.)
 
 Grupper
 Jensen Education
