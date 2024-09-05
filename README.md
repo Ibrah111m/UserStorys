@@ -4,6 +4,9 @@
  3. Third item
  4. Fourth item
 
+<<<<<<< HEAD
+UserStory 007
+=======
  1. First Item
  2. Second Item
  3. Third Item
@@ -13,10 +16,18 @@
 Make Koshin Free Again
 
 1. Make a app
+>>>>>>> 4963da481f4fec1368eaffa638a679423945fd01
 
-2. Break it down
+As a devops, I want to, 
+have a Help File for
+Making bold and italic text in Markdown.
 
-3. Make it work
+So that 
+When I need to do it I can find instructions.
+
+DoD
+Develops Collegue Uses Instruction.
+
 
 4. Hello
 
