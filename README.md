@@ -64,4 +64,4 @@ var jim = 100;
 
 ###### YAYAYAYAYYA
 
-https://www.linkedin.com/in/koshiin-i-4a595428b/
+https://media.licdn.com/dms/image/v2/D4D03AQEhxQl1I2TXvg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709992428489?e=1730937600&v=beta&t=SYA_8ACjAmmFpGehEeSznGfGrxq_QoRTTuAbToDnJR4
