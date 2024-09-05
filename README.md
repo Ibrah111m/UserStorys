@@ -25,6 +25,7 @@ Make Koshin Free Again
 5. Osman top dog
 
 
+[Contact Me](mailto:contact@example.com)
 
 
 2.Ferid
