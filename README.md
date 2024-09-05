@@ -4,9 +4,7 @@
  3. Third item
  4. Fourth item
 
-<<<<<<< HEAD
 UserStory 007
-=======
  1. First Item
  2. Second Item
  3. Third Item
@@ -16,7 +14,6 @@ UserStory 007
 Make Koshin Free Again
 
 1. Make a app
->>>>>>> 4963da481f4fec1368eaffa638a679423945fd01
 
 As a devops, I want to, 
 have a Help File for
