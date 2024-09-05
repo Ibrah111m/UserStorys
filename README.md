@@ -45,6 +45,10 @@ var jim = 100;
 **_BENDARTE WAS HERE_**
 5. Osman top dog
 
+# Heres is intructions on how to make classdiagram on MD
+
+
+
 
 [Contact Me](mailto:contact@example.com)
 
