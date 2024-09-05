@@ -63,3 +63,5 @@ var jim = 100;
 
 
 ###### YAYAYAYAYYA
+
+https://www.linkedin.com/in/koshiin-i-4a595428b/
