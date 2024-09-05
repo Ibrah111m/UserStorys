@@ -10,4 +10,11 @@ __*This text is also bold and italic*__
 
 3. Make it work
 
+```j
+
+var fred =99;
+
+var jim = 100;
+
+```
 
