@@ -1,5 +1,4 @@
 # UserStorys
-https://media.licdn.com/dms/image/v2/D4D03AQEhxQl1I2TXvg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709992428489?e=1730937600&v=beta&t=uDkAO-cRJdIM02TNV-Mr5LzujSQ2m87Febj44jn2i88
 Grupper
 Jensen Education
 Frontendutvecklare webbsäkerhet (FWK23S)
