@@ -75,3 +75,6 @@ classDiagram
 2.Ferid
 
 3.Osman
+
+
+![Tux,the Linux mascot](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
